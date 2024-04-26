@@ -8,7 +8,7 @@ NumPy is a fundamental package for scientific computing in Python. It provides s
 
 [![Introduction to NumPy](https://img.youtube.com/vi/YBvInpw5QZQ/0.jpg)](https://youtu.be/LHzBHo-XZnw)
 
-Click the image above to watch an introduction to NumPy on YouTube.
+Click the image above to watch NumPy Full Video on YouTube.
 
 ### Colab Notebook
 
