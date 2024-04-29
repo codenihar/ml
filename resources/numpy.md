@@ -12,7 +12,7 @@ Click the image above to watch NumPy Full Video on YouTube.
 
 ### Colab Notebook
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10sP00m4NvdkCdnf7HmkcrwPXavvICyir?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](Will be updated soon)
 
 Click the badge above to access the Colab notebook for hands-on exercises with NumPy.
 
